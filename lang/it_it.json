@@ -1,0 +1,11 @@
+{
+//Items
+"item.elementalswords.fire_sword": "Spada di fuoco",
+"item.elementalswords.water_sword": "Spada di acqua",
+"item.elementalswords.air_sword": "Spada di aria",
+"item.elementalswords.earth_sword": "Spada di terra",
+
+//Tabs
+"itemGroup.ElementalSwords": "Spade Elementali",
+"tooltip.special_item.hold_shift": "\u00A77Hold \u00A7eShift \u00A77for More Information"
+}

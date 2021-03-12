@@ -1,0 +1,11 @@
+{
+//Items
+"item.elementalswords.fire_sword": "Fire Sword",
+"item.elementalswords.water_sword": "Water Sword",
+"item.elementalswords.air_sword": "Air Sword",
+"item.elementalswords.earth_sword": "Earth Sword",
+
+//Tabs
+"itemGroup.ElementalSwords": "Elemental Swords",
+"tooltip.special_item.hold_shift": "\u00A77Hold \u00A7eShift \u00A77for More Information"
+}

@@ -1,0 +1,11 @@
+{
+//Items
+"item.elementalswords.fire_sword": "火焰之劍",
+"item.elementalswords.water_sword": "水源之劍",
+"item.elementalswords.air_sword": "疾風之劍",
+"item.elementalswords.earth_sword": "堅地之劍",
+
+//Tabs
+"itemGroup.ElementalSwords": "Elemental Swords",
+"tooltip.special_item.hold_shift": "\u00A77Hold \u00A7eShift \u00A77獲取更多資訊"
+}
