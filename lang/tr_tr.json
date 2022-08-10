@@ -1,0 +1,11 @@
+{
+//Items
+"item.elementalswords.fire_sword": "Ateş Kılıcı",
+"item.elementalswords.water_sword": "Su Kılıcı",
+"item.elementalswords.air_sword": "Hava Kılıcı",
+"item.elementalswords.earth_sword": "Toprak Kılıcı",
+    
+//Tabs
+"itemGroup.ElementalSwords": "Element Kılıçları",
+"tooltip.special_item.hold_shift": "\u00A77Daha fazla bilgi için \u00A77Shift \u00A7ebas. "
+}
