@@ -1,0 +1,11 @@
+{
+//Items
+"item.elementalswords.fire_sword": "Miecz Ognia",
+"item.elementalswords.water_sword": "Miecz Wody",
+"item.elementalswords.air_sword": "Miecz Wiatru",
+"item.elementalswords.earth_sword": "Miecz Ziemi",
+
+//Tabs
+"itemGroup.ElementalSwords": "Miecze Żywiołów",
+"tooltip.special_item.hold_shift": "\u00A77Przytrzymaj \u00A7eShift \u00A77Po więcej informacji"
+}
