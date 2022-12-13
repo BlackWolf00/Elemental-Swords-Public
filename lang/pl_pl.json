@@ -1,11 +1,18 @@
 {
-//Items
-"item.elementalswords.fire_sword": "Miecz Ognia",
-"item.elementalswords.water_sword": "Miecz Wody",
-"item.elementalswords.air_sword": "Miecz Wiatru",
-"item.elementalswords.earth_sword": "Miecz Ziemi",
+  //Items
+  "item.elementalswords.fire_sword": "Miecz Ognia",
+  "item.elementalswords.water_sword": "Miecz Wody",
+  "item.elementalswords.air_sword": "Miecz Wiatru",
+  "item.elementalswords.earth_sword": "Miecz Ziemi",
+  "item.elementalswords.fusion_sword": "Miecz bogów",
 
-//Tabs
-"itemGroup.ElementalSwords": "Miecze Żywiołów",
-"tooltip.special_item.hold_shift": "\u00A77Przytrzymaj \u00A7eShift \u00A77Po więcej informacji"
+  "item.elementalswords.n_fire_sword": "Miecz Ognia",
+  "item.elementalswords.n_water_sword": "Miecz Wody",
+  "item.elementalswords.n_air_sword": "Miecz Wiatru",
+  "item.elementalswords.n_earth_sword": "Miecz Ziemi",
+  "item.elementalswords.n_fusion_sword": "Miecz bogów",
+
+  //Tabs
+  "itemGroup.ElementalSwords": "Miecze Żywiołów",
+  "tooltip.special_item.hold_shift": "\u00A77Przytrzymaj \u00A7eShift \u00A77Po więcej informacji"
 }
