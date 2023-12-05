@@ -1,11 +1,25 @@
 {
-//Items
-"item.elementalswords.fire_sword": "火焰之劍",
-"item.elementalswords.water_sword": "水源之劍",
-"item.elementalswords.air_sword": "疾風之劍",
-"item.elementalswords.earth_sword": "堅地之劍",
+  //Items
+  "item.elementalswords.fire_sword": "火焰之劍",
+  "item.elementalswords.water_sword": "水源之劍",
+  "item.elementalswords.air_sword": "疾風之劍",
+  "item.elementalswords.earth_sword": "堅地之劍",
+  "item.elementalswords.fusion_sword": "元素神劍",
 
-//Tabs
-"itemGroup.ElementalSwords": "Elemental Swords",
-"tooltip.special_item.hold_shift": "\u00A77Hold \u00A7eShift \u00A77獲取更多資訊"
+  "item.elementalswords.n_fire_sword": "火焰之劍",
+  "item.elementalswords.n_water_sword": "水源之劍",
+  "item.elementalswords.n_air_sword": "疾風之劍",
+  "item.elementalswords.n_earth_sword": "堅地之劍",
+  "item.elementalswords.n_fusion_sword": "元素神劍",
+
+  //Tabs
+  "itemGroup.elementalswords_creative_mode_tab": "Elemental Swords",
+
+  //Tooltips
+  "tooltip.hold_shift": "\u00A77Hold \u00A7eShift \u00A77獲取更多資訊",
+  "tooltip.air_sword": "右鍵獲得效果：跳躍提升與加速",
+  "tooltip.fire_sword": "右鍵獲得效果：抗火",
+  "tooltip.water_sword": "右鍵獲得效果：水下呼吸、海豚悠遊與海靈祝福",
+  "tooltip.earth_sword": "右鍵獲得效果：吸收、抗性與力量",
+  "tooltip.fusion_sword": "右鍵獲得效果：跳躍提升、加速、緩降、抗火、水下呼吸、海豚悠遊、海靈祝福、吸收、抗性、力量、回復與生命值提升"
 }
